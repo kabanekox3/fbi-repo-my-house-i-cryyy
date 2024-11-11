@@ -26,6 +26,9 @@
 .cat-logo-header {
     height: 80px;
     width: 80px;
+    background-color: #E5E7EB;
+    border-radius: 40px;
+    margin: 10px;
 }
 
 .header {
@@ -62,6 +65,7 @@ li {
     width: 500px;
     background-color: #E5E7EB;
     border: #3882F6 solid 2px;
+    border-radius: 6px;
 }
 
 .body-block.first {
@@ -93,6 +97,7 @@ li {
     width: 80px;
     height: 18px;
     text-align: center;
+    border-radius: 25px;
 }
 
 .body-block.second {
@@ -118,6 +123,7 @@ li {
     width: 150px;
     height: 150px;
     border: 2px solid #3882F6;
+    border-radius: 16px;
 }
 
 .image-box > p {
@@ -162,6 +168,7 @@ li {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    border-radius: 32px;
 }
 
 .call-to-action-button {
